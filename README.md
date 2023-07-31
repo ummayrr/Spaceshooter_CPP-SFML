@@ -26,6 +26,8 @@ exact opposite corner, periodic damage to the ship, and screen shake etc.
 5. High Score and Players Names Display
 6. End screen
 
+! [Screenshot] (./img/screenshot.png)
+
 ## Gameplay Instructions
 
 The player of the game controls a spaceship in an enemy filled space field. The goal is to destroy
