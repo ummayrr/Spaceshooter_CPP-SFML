@@ -14,7 +14,7 @@ shapes would be filled.
 - Boss fights, including Monsters, Dragons and a secret boss. Each boss has different patterns and different kind of attacks they can damage the player with.
 - Lives system, there are 3 Lives a player has, before the ship blasts.
 - Player can make use of addons, which fall at random intervals from above. Included addons: Life, Danger Sign, PowerUp, Enhanced Fire. Player ship and Bullets are upgraded according to the addon gained temporarily.
-- Scoring functionality, the highscores are saved using File Handling utilizng fstream library. The top 3 positions are awarded medals which can are displayed when they are playing the game.
+- Scoring functionality, the highscores are saved using File Handling utilizing fstream library. The top 3 positions are awarded medals which can are displayed when they are playing the game.
 - Many misc details and animations, such as the galaxy is a wrap-around environment for the spaceship i.e., a spaceship disappears at one corner of the screen and then reappears from the
 exact opposite corner, periodic damage to the ship, and screen shake etc.
 - The game features fully functional audio and sound effects. Music can be turned on or off from the menu.
