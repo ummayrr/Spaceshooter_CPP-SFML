@@ -26,7 +26,7 @@ exact opposite corner, periodic damage to the ship, and screen shake etc.
 5. High Score and Players Names Display
 6. End screen
 
-! [Screenshot] (./img/screenshot.png)
+<img src="https://raw.githubusercontent.com/ummayrr/Spaceshooter_CPP-SFML/main/img/screenshot.png?raw=true" alt="Screenshot" width="395" height="405">
 
 ## Gameplay Instructions
 
